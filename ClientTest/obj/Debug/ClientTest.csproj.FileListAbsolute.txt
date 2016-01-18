@@ -1,0 +1,10 @@
+E:\MONO\Projects\AsyncNamedPipe\AsyncNamedPipe\ClientTest\bin\Debug\ClientTest.exe
+E:\MONO\Projects\AsyncNamedPipe\AsyncNamedPipe\ClientTest\bin\Debug\ClientTest.pdb
+E:\MONO\Projects\AsyncNamedPipe\AsyncNamedPipe\ClientTest\bin\Debug\AsyncNamedPipe.dll
+E:\MONO\Projects\AsyncNamedPipe\AsyncNamedPipe\ClientTest\bin\Debug\AsyncNamedPipe.pdb
+E:\MONO\Projects\AsyncNamedPipe\AsyncNamedPipe\ClientTest\obj\Debug\ClientTest.Form1.resources
+E:\MONO\Projects\AsyncNamedPipe\AsyncNamedPipe\ClientTest\obj\Debug\ClientTest.Properties.Resources.resources
+E:\MONO\Projects\AsyncNamedPipe\AsyncNamedPipe\ClientTest\obj\Debug\ClientTest.csproj.GenerateResource.Cache
+E:\MONO\Projects\AsyncNamedPipe\AsyncNamedPipe\ClientTest\obj\Debug\ClientTest.exe
+E:\MONO\Projects\AsyncNamedPipe\AsyncNamedPipe\ClientTest\obj\Debug\ClientTest.pdb
+E:\MONO\Projects\AsyncNamedPipe\AsyncNamedPipe\ClientTest\obj\Debug\ClientTest.csprojResolveAssemblyReference.cache

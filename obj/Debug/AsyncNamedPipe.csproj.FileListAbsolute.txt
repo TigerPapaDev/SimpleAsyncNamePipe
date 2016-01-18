@@ -1,0 +1,5 @@
+E:\MONO\Projects\AsyncNamedPipe\AsyncNamedPipe\bin\Debug\AsyncNamedPipe.dll
+E:\MONO\Projects\AsyncNamedPipe\AsyncNamedPipe\bin\Debug\AsyncNamedPipe.pdb
+E:\MONO\Projects\AsyncNamedPipe\AsyncNamedPipe\obj\Debug\AsyncNamedPipe.csprojResolveAssemblyReference.cache
+E:\MONO\Projects\AsyncNamedPipe\AsyncNamedPipe\obj\Debug\AsyncNamedPipe.dll
+E:\MONO\Projects\AsyncNamedPipe\AsyncNamedPipe\obj\Debug\AsyncNamedPipe.pdb
